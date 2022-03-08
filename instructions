@@ -1,0 +1,11 @@
+GIT HUB commands:
+
+git add *                 - add all filed
+git add file.py           - add one file
+
+git status                -status git
+
+git commit -m "my text"   -create commit
+
+git push origin master    -send changed connection to github
+
